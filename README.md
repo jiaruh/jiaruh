@@ -10,9 +10,9 @@
 
 😀 Now I am looking for a new job. 
 
-📫 resume(Chinese): https://jiaruhhh.notion.site/
+📫 Resume(Chinese): https://jiaruhhh.notion.site/
 
-📞 Feel free to reach me!
+📱 Feel free to reach me!
 
 <!--
 **jiaruh/jiaruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
