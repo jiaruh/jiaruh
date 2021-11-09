@@ -1,6 +1,4 @@
-# Intro
-
-👋 Hi there! 
+# 👋 Hi there! 
 
 🧑🏻‍💻 It's Jiaruh (黄家儒) here.
 
