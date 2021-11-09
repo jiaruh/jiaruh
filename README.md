@@ -4,9 +4,9 @@
 
 🧑🏻‍💻 It's Jiaruh (黄家儒) here.
 
-🔭 I used to mainly work on iOS SDK development (Swift/Objective-C).
+🔭 I used to mainly work on iOS SDK development (**Swift/Objective-C**).
 
-✅ And I also have some experience with Django for automation.
+✅ And I also have some experience with **Django** for automation.
 
 😀 Now I am looking for a new job. 
 
