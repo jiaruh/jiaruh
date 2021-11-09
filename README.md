@@ -1,7 +1,19 @@
-### Hi there 👋
+# Intro
 
+👋 Hi there! 
 
-resume: https://jiaruhhh.notion.site/
+🧑🏻‍💻 It's Jiaruh (黄家儒) here.
+
+🔭 I used to mainly work on iOS SDK development (Swift/Objective-C).
+
+✅ And I also have some experience with Django for automation.
+
+😀 Now I am looking for a new job. 
+
+📫 resume(Chinese): https://jiaruhhh.notion.site/
+
+📞 Feel free to reach me!
+
 <!--
 **jiaruh/jiaruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
