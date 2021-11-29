@@ -6,8 +6,6 @@
 
 ✅ And I also have some experience with **Django** for automation.
 
-😀 Now I am looking for a new job. 
-
 📫 Resume(Chinese): https://jiaruhhh.notion.site/
 
 📱 Feel free to reach me!
